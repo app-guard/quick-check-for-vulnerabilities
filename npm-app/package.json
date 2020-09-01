@@ -9,7 +9,7 @@
   "author": "Alexey Beloglazov",
   "license": "ISC",
   "dependencies": {
-    "ascii-art": "^1.4.0",
+    "ascii-art": "^1.4.3",
     "bower": "^1.8.3",
     "braces": "^2.3.0",
     "cached-path-relative": "^1.0.0",
