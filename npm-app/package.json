@@ -16,7 +16,7 @@
     "exceljs": "^1.5.0",
     "generate-password": "^1.4.0",
     "http-live-simulator": "^1.0.5",
-    "jquery.terminal": "^1.20.0",
+    "jquery.terminal": "^2.31.1",
     "js-yaml": "^3.12.1",
     "loopback-connector-mongodb": "^3.5.0",
     "m-server": "^1.4.0",
