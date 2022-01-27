@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8c13317b581b1fa0ef4f02465c91f170",
+    "content-hash": "c4b03e5f6dddff577f75d2b20330b9af",
     "packages": [
         {
             "name": "adodb/adodb-php",
-            "version": "v5.20.4",
+            "version": "v5.20.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ADOdb/ADOdb.git",
-                "reference": "1a47f1078318557ac278c82b1b401c8dfc62ae4d"
+                "reference": "6c38e6c614802acd3151444a71191912edcec965"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ADOdb/ADOdb/zipball/1a47f1078318557ac278c82b1b401c8dfc62ae4d",
-                "reference": "1a47f1078318557ac278c82b1b401c8dfc62ae4d",
+                "url": "https://api.github.com/repos/ADOdb/ADOdb/zipball/6c38e6c614802acd3151444a71191912edcec965",
+                "reference": "6c38e6c614802acd3151444a71191912edcec965",
                 "shasum": ""
             },
             "require": {
@@ -32,7 +32,7 @@
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause",
-                "LGPL-2.1"
+                "LGPL-2.1-or-later"
             ],
             "authors": [
                 {
@@ -50,7 +50,7 @@
                 }
             ],
             "description": "ADOdb is a PHP database abstraction layer library",
-            "homepage": "http://adodb.sourceforge.net/",
+            "homepage": "http://adodb.org/",
             "keywords": [
                 "abstraction",
                 "database",
@@ -58,7 +58,11 @@
                 "library",
                 "php"
             ],
-            "time": "2016-03-31T08:10:52+00:00"
+            "support": {
+                "issues": "https://github.com/ADOdb/ADOdb/issues",
+                "source": "https://github.com/ADOdb/ADOdb"
+            },
+            "time": "2022-01-22T22:38:02+00:00"
         },
         {
             "name": "aws/aws-sdk-php",
@@ -4377,5 +4381,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
 }
