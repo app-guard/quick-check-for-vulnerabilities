@@ -24,6 +24,6 @@
         "james-heinrich/getid3": "~1.9.8",
         "monolog/monolog": "~1.11.0",
         "zfr/zfr-oauth2-server-module": "~0.1.1",
-        "twig/twig": "~1.35.0"
+        "twig/twig": "~1.44.7"
     }
 }
